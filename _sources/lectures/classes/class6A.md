@@ -43,7 +43,7 @@ Below are the assigned videos for Lecture 18.
 ### Lecture 21
 
 <div>
-<iframe src="../../files/Lec21.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://ubc-cs.github.io/cpsc330-2025S1/_downloads/2c5fb5145ef282ba0e956b2e52510acf/Lec21.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec21.pdf)

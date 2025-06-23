@@ -37,7 +37,7 @@ Below are the assigned videos for Lecture 18.
 ### Lecture 22 - Ethics
 
 <div>
-<iframe src="https://github.com/UBC-CS/cpsc330-2025S1/blob/main/files/Lec22.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://ubc-cs.github.io/cpsc330-2025S1/_downloads/4526c87326bcf082e1f91b81ec9c2772/Lec22.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec22.pdf)
@@ -45,7 +45,7 @@ Below are the assigned videos for Lecture 18.
 ### Lecture 23 - Deployment
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-24.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-23.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec23.pdf)
